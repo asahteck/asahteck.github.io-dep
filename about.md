@@ -1,3 +1,9 @@
+---
+layout: page
+title: About
+permalink: /about/
+---
+
 Name: Amanda Shayna Ahteck
 
 Email: ahteck (dot) a (at) northeastern.edu
